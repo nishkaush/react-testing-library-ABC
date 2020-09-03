@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      yahoo
+    </h1>
+    <input
+      type="text"
+      value="yaddi"
+    />
+  </div>
+</DocumentFragment>
+`;

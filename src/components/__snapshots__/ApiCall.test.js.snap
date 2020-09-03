@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Api call
+    </h1>
+    <p>
+      Title- + Body-
+    </p>
+    <button
+      data-testid="my-btn"
+    >
+      Get Todo
+    </button>
+  </div>
+</DocumentFragment>
+`;
